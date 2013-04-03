@@ -1,3 +1,4 @@
 class Product < ActiveRecord::Base
-  attr_accessible : title, :description, :image_url, :price
+  attr_accessible :title, :description, :image_url, :price
+  validates :title, :description, :image_url, :presence=> true
 end
