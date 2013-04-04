@@ -25,23 +25,23 @@ img {
     }
 }
 
-#notice {
+#notice{
 color: #000 !important;
 border: 2px solid red;
 padding: 1em;
 margin-bottom: 2em;
 background-color: #f0f0f0;
-font: bold smaller sans-serif ;
+font: bold smaller sans-serif;
 }
-#columns {
+#columns{
 background:#141;
 
-#main {
+#main{
 margin-left: 17em;
 padding: 1em;
 background: white;
 }
-#side {
+#side{
 float: left;
 padding: 1em 2em;
 width: 13em;
