@@ -15,7 +15,7 @@ border-bottom : 3px dotted#77d;
 overflow: auto;
 margin-top: lem;
 border-bottom : 1px dotted #77d;
-min-height: 180px;
+min-height: 100px;
 
 img {
 width : 80px;
